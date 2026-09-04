@@ -59,18 +59,13 @@ Comecei a aprender programação com o intuito de desenvolver games, porém perc
 
 ### 📊 Estatísticas
 
-<p align="center">
+<p align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermecomgmx-hub&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="165" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermecomgmx-hub&theme=tokyonight" 
   />
   <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecomgmx-hub&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="165" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guilhermecomgmx-hub&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-<br clear="all" />
