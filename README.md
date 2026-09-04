@@ -66,6 +66,6 @@ Comecei a aprender programação com o intuito de desenvolver games, porém perc
   />
   <img 
     height="165" 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guilhermecomgmx-hub&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guilhermecomgmx-hub&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true" 
   />
 </p>
